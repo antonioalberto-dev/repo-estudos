@@ -1,12 +1,15 @@
-# 🚀Repositório de estudos WEB
+# 🚀Repositório do curso Programação WEB da Udemy
 
-Repositório destinado ao estudo de tecnologias voltadas ao desenvolvimento WEB.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Nesse repositório, contempla as práticas de desenvolvimento de acordo com as seguintes plataformas e seus cursos:
+Nesse repositório está sendo abordado as tecnologias:
 
-- Rocketseat: Estelar
-- Udemy: Programação WEB
+<div style="display: flex; justify-content: space-evenly;">
 
-### 📃 Estrutura de branchs
+![HTML](https://img.shields.io/badge/-HTML-6112FB?logo=html5&logoColor=white&style=for-the-badge)
 
-A estrutura de branchs está organizadas de acordo com as platarfomas estudadas e listadas acima
+![CSS](https://img.shields.io/badge/-CSS-aa4440?logo=CSS-Wizardry&logoColor=white&style=for-the-badge)
+
+![HTML](https://img.shields.io/badge/-js-4a5a3a?logo=JavaScript&logoColor=white&style=for-the-badge)
+
+</div>
