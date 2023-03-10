@@ -1,14 +1,12 @@
-# Discover
+# 🚀Repositório de estudos WEB
 
-Repositório destinado ao estudo de tecnologias abordadas na Discover, plataforma de cursos profissionalizantes da Rocketseat. Disponivel em: https://app.rocketseat.com.br/discover.
+Repositório destinado ao estudo de tecnologias voltadas ao desenvolvimento WEB.
 
-### Trilha fundamentar
+Nesse repositório, contempla as práticas de desenvolvimento de acordo com as seguintes plataformas e seus cursos:
 
-Os conteúdos abordados durante a trilha foram:
+- Rocketseat: Estelar
+- Udemy: Programação WEB
 
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- SQL
-- Git e Github
+### 📃 Estrutura de branchs
+
+A estrutura de branchs está organizadas de acordo com as platarfomas estudadas e listadas acima
